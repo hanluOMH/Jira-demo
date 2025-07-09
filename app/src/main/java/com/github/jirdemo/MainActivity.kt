@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     JiraDemoTheme {
-        Greeting("Hello  World")
+        Greeting("Hello  World fro Jira 7")
     }
 }
